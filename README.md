@@ -1,2 +1,2 @@
-# molecular_dynamics
-Original molecular dynamics codes
+# comp_physics
+implementation of Computational Physics
